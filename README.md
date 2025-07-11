@@ -1,2 +1,8 @@
-# CODEALPHA-TASK-4
-🔹 Task 4: Disease Prediction from Medical Data Built a machine learning model to predict the likelihood of diseases based on patient data. Applied  SVM, Logistic Regression, Random Forest, and XGBoost. Trained and evaluated the model on medical datasets such as Heart Disease, Diabetes, and Breast Cancer from the UCI ML Repository. 
+🚀 CodeAlpha Internship - Task 4
+🩺 Disease Prediction from Medical Data
+📌 Objective: Predict the likelihood of diseases using patient health records.
+🛠️ Approach: Applied classification algorithms like SVM, Logistic Regression, Random Forest, and XGBoost.
+📊 Features:
+     📂 Used structured data with inputs like age, symptoms, and blood test results
+     🧠 Trained models on datasets including Heart Disease, Diabetes, and Breast Cancer from the UCI ML Repository
+     ✅ Focused on building accurate and interpretable healthcare prediction models
